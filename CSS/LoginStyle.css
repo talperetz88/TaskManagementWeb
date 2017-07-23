@@ -1,0 +1,29 @@
+﻿body {
+    background: #ccc;
+}
+.panel{
+    padding:10px;
+    margin:0px auto;
+    background:#fff;
+    width:400px;
+
+}
+.input{
+    width:100%;
+     border: 1px solid #848484; 
+    -webkit-border-radius: 30px; 
+    -moz-border-radius: 30px; 
+    border-radius: 30px; 
+    outline:0; 
+
+}
+h2{
+    margin: 1em 0 0.5em 0;
+	color: #0094ff;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+}

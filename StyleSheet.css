@@ -1,0 +1,22 @@
+﻿body {
+}
+.darkGB{
+    background:#999;
+    padding:0;
+}
+.darkerGB{
+    background:#666;
+    color:white;
+}
+.Hback{
+    background:#73219f;
+    color:white;
+    padding:20px;
+    margin:20px,0;
+}
+body{
+    background:#0094ff;
+}
+a{
+    color:white;
+}
